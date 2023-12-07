@@ -1,0 +1,170 @@
+units:
+  # Proxy Spacing Variables
+  kx: cx
+  ky: cy
+  # Padding Variables
+  px: kx + 4
+  py: ky + 4
+
+
+points:
+  key:
+    padding:  ky
+    # spread: kx
+    footprints:
+      choc_hotswap:
+        type: choc
+        nets:
+          from: =column_net
+          to: GND
+        params:
+            keycaps: true
+            reverse: false
+            hotswap: true
+  zones:
+    board:
+      rows:
+        bottom:
+        home:
+        top:
+        number:
+      columns:
+        pinkyfar:
+          spread: kx
+          rows.bottom:
+            column_net: P0
+          rows.home:
+            column_net: P1
+          rows.top:
+            column_net: P2
+          rows.number:
+            column_net: P3
+        pinky:
+          spread: kx
+          rows.bottom:
+            column_net: P4
+          rows.home:
+            column_net: P5
+          rows.top:
+            column_net: P6
+          rows.number:
+            column_net: P7
+        ring:
+          spread: kx
+          # key.origin: [-12, -19]
+          stagger: 12
+          rows.bottom:
+            column_net: P8
+          rows.home:
+            column_net: P9
+          rows.top:
+            column_net: P10
+          rows.number:
+            column_net: P11
+        middle:
+          spread: kx
+          stagger: 4
+          rows.bottom:
+            column_net: P12
+          rows.home:
+            column_net: P13
+          rows.top:
+            column_net: P14
+          rows.number:
+            column_net: P15
+        index:
+          spread: kx
+          stagger: -5
+          rows.bottom:
+            column_net: P16
+          rows.home:
+            column_net: P17
+          rows.top:
+            column_net: P18
+          rows.number:
+            column_net: P19
+        inner:
+          spread: kx
+          stagger: -3
+          rows.bottom:
+            column_net: P20
+          rows.home:
+            column_net: P21
+          rows.top:
+            column_net: P22
+          rows.number:
+            column_net: P23
+        extra_thumb:
+          spread: kx+2
+          rows.number.skip: true
+          rows.home.skip: true
+          rows.top.skip: true
+          # key.spread: kx+2
+          stagger: -2
+          key.column_net: P24
+
+    thumbfan:
+      anchor:
+        ref: board_index_bottom
+        shift: [-25, -22]
+      columns:
+        near3:
+          spread: kx
+          key.column_net: P25
+        near2:
+          spread: kx
+          key.column_net: P26
+        near:
+          spread: kx
+          key.stagger: 0
+          key.column_net: P27 
+        home:
+          spread: kx
+          key.stagger: 0  
+          key.splay: -0
+          key.column_net: P28
+      rows:
+        thumb:
+  rotate: 0
+
+# outlines:
+#   exports:
+#     raw:
+#       what: polygon
+#       where: true
+#       fillet: 2
+#       size: [px, py]
+#     keys:
+#       what: rectangle
+#       where: true
+#       size: [kx-0.5,ky-0.5]
+outlines:
+  exports:
+    raw: 
+      - type: keys
+        # where: true
+        side: both
+        size: [px, py]
+      - type: rectangle
+        size: [7, 5]
+        anchor:
+          ref: board_index_top
+          shift: [21, 6]
+    cutouta:
+      - type: outline
+        name: raw
+        fillet: 3
+    cutoutb:
+      - type: outline
+        name: cutouta
+        fillet: 1
+    cutout:
+      - type: outline
+        name: cutoutb
+        fillet: 0.5
+
+pcbs:
+  mine:
+    outlines:
+      main:
+        outline: cutout
