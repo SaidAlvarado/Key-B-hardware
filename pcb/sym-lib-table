@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keyboard")(type "Legacy")(uri "${KIPRJMOD}/lib/keyboard.lib")(options "")(descr ""))
+)
