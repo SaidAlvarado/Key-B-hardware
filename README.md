@@ -7,6 +7,13 @@ Remember to attribute: https://github.com/daprice/keyswitches.pretty/tree/master
 Attribute the Fanstel module footprint and symbols to: https://github.com/hemalchevli/Fanstel-kicad-library
 
 
+## Battery
+- [Big Option](https://www.amazon.fr/EEMB-Batterie-polym%C3%A8re-Rechargeable-connecteur/dp/B09DPPP8ZV/)
+  - JST Connector (PH). [Digikey Link](https://www.amazon.fr/EEMB-Batterie-polym%C3%A8re-Rechargeable-connecteur/dp/B09DPPP8ZV/?th=1)
+- [Slightly smaller option](https://www.amazon.fr/EEMB-Batterie-Rechargeable-Navigation-Enregistreur/dp/B08FD3V6TF)
+- Charging current
+  - std 0.2C, max. 1C. (60mA to 300mA)
+
 ## References
 
 #### Crystal oscillator design
