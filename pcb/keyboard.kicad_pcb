@@ -336,7 +336,7 @@
 
   (footprint "Inductor_SMD:L_0603_1608Metric" (layer "F.Cu")
     (tstamp 04b8f8f4-9a02-40f8-af92-38a82687ca1d)
-    (at 284.19 88.51)
+    (at 100.2025 45.06)
     (descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "inductor")
     (property "Digikey" "https://www.digikey.fr/short/5017v0dz")
@@ -550,7 +550,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 0b3a89e4-8632-4bf4-8378-febefa5f43da)
-    (at 284.19 98.55)
+    (at 100.2025 55.1)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/n44t24n9")
@@ -607,7 +607,7 @@
 
   (footprint "keyboard:SW_SPDT_PCM12" (layer "F.Cu")
     (tstamp 0ec70e01-5cde-4a7f-b20d-90d096af0c87)
-    (at 283.1 116.25)
+    (at 99.1125 72.8)
     (descr "Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf")
     (property "Digikey" "https://www.digikey.fr/short/pnt4qtt1")
     (property "Mfr Part Number" "PCM12SMTR")
@@ -1011,7 +1011,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 1ab5cf32-3f23-480c-b148-c34530bc88e3)
-    (at 280.18 96.04)
+    (at 96.1925 52.59)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.fr/short/9ddcdmj1")
@@ -1068,7 +1068,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 2291f257-cbd8-4743-833e-77679b405936)
-    (at 284.19 93.53)
+    (at 100.2025 50.08)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/z45v3mjc")
@@ -1439,7 +1439,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 2f914e3f-429d-4f41-a827-993b201d3336)
-    (at 284.19 101.06)
+    (at 100.2025 57.61)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/92pntfd4")
@@ -1496,7 +1496,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23-6" (layer "F.Cu")
     (tstamp 2ffc9e97-d12e-450b-bd56-c2f60f49df6e)
-    (at 292.78 94.77)
+    (at 108.7925 51.32)
     (descr "SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Digikey" "https://www.digikey.fr/short/p7hw7bpv")
@@ -1724,7 +1724,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 31f4898c-a59a-49c8-bab0-00c8d9276895)
-    (at 288.2 93.53)
+    (at 104.2125 50.08)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/phch2hb9")
@@ -1781,7 +1781,7 @@
 
   (footprint "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" (layer "F.Cu")
     (tstamp 32bc6862-bdb6-4143-82af-07e902131a83)
-    (at 293.25 107.35)
+    (at 109.2625 63.9)
     (descr "Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf")
     (tags "tag connect programming header pogo pins")
     (property "Digikey" "")
@@ -1842,10 +1842,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 294.52 106.715)
-          (xy 291.98 106.715)
-          (xy 291.98 107.985)
-          (xy 294.52 107.985)
+          (xy 110.5325 63.265)
+          (xy 107.9925 63.265)
+          (xy 107.9925 64.535)
+          (xy 110.5325 64.535)
         )
       )
     )
@@ -1853,7 +1853,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 32d5f30b-9d44-4c27-8e25-39ab89c5064a)
-    (at 284.19 96.04)
+    (at 100.2025 52.59)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/n44t24n9")
@@ -2067,7 +2067,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 365be449-fc3d-41a4-bd00-0fdb2f478ca8)
-    (at 288.2 101.06)
+    (at 104.2125 57.61)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/3j5f0vnv")
@@ -2281,7 +2281,7 @@
 
   (footprint "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm" (layer "F.Cu")
     (tstamp 454e7462-d0e2-4d50-a629-93a16ba0902b)
-    (at 292.85 89.9)
+    (at 108.8625 46.45)
     (descr "VQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/cdclvp1102.pdf#page=28), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "VQFN NoLead")
     (property "Digikey" "https://www.digikey.fr/short/cn0mz24p")
@@ -2384,7 +2384,7 @@
 
   (footprint "Button_Switch_SMD:SW_SPST_B3S-1000" (layer "F.Cu")
     (tstamp 462d3eb1-f7c9-4e08-bea0-1b4e70b5380f)
-    (at 283.7 109.05)
+    (at 99.7125 65.6)
     (descr "Surface Mount Tactile Switch for High-Density Packaging")
     (tags "Tactile Switch")
     (property "Digikey" "https://www.digikey.fr/short/qt5jdm9z")
@@ -2459,7 +2459,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 50fb0a1d-05d1-4690-a840-cb38f505d5cd)
-    (at 288.2 98.55)
+    (at 104.2125 55.1)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/q2w0pb82")
@@ -2987,7 +2987,7 @@
 
   (footprint "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm" (layer "F.Cu")
     (tstamp 57f3fc6d-3095-44c2-9bbc-67522962e1b5)
-    (at 292.73 98.67)
+    (at 108.7425 55.22)
     (descr "SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf")
     (tags "SMD SMT Crystal")
     (property "Digikey" "https://www.digikey.fr/short/w4d4tdrt")
@@ -3044,7 +3044,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
     (tstamp 67f629bb-52be-4ca3-a3a3-53a9b990dad5)
-    (at 292.65 102.57)
+    (at 108.6625 59.12)
     (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Digikey" "https://www.digikey.fr/short/2whmm8p2")
@@ -3266,7 +3266,7 @@
 
   (footprint "Fuse:Fuse_0603_1608Metric" (layer "F.Cu")
     (tstamp 74b8e74b-110b-4476-be15-90d86141136c)
-    (at 280.18 103.57)
+    (at 96.1925 60.12)
     (descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "fuse")
     (property "Digikey" "https://www.digikey.fr/short/8chdpvvc")
@@ -3323,7 +3323,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 7f047192-971f-44c2-ba8d-faea4b970991)
-    (at 267.92 118.88)
+    (at 83.9325 75.43)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Digikey" "https://www.digikey.fr/short/9hh0d35q")
@@ -3384,7 +3384,7 @@
 
   (footprint "keyboard:Fanstel_BT840" (layer "F.Cu")
     (tstamp 84f1933c-5dee-4057-aa89-ff3974de49ff)
-    (at 262.93256 103.81796)
+    (at 78.94506 60.36796)
     (property "Digikey" "https://www.digikey.fr/short/4qd39n5h")
     (property "Mfr Part Number" "BT840")
     (property "Notes" "RF TXRX MODULE BT TRACE ANT SMD")
@@ -3392,7 +3392,7 @@
     (property "Sheetname" "")
     (path "/c51f2f98-4604-45c0-93c5-90694812fdc4")
     (attr smd)
-    (fp_text reference "U3" (at 6.2 -22) (layer "F.SilkS")
+    (fp_text reference "U3" (at 7.06744 -18.41796) (layer "F.SilkS")
         (effects (font (size 1.524 1.524) (thickness 0.15)))
       (tstamp 06e46204-c3d0-4e33-8773-ddb78d6805cf)
     )
@@ -3578,7 +3578,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 85fd947b-5d3e-47f1-a7fa-afc376456146)
-    (at 288.2 88.51)
+    (at 104.2125 45.06)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/d7m30hjz")
@@ -3792,7 +3792,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 8c1d9076-220a-45d6-9e74-c5a5a0c75e35)
-    (at 280.18 101.06)
+    (at 96.1925 57.61)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.fr/short/93345tjz")
@@ -4163,7 +4163,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 93b41831-3864-4816-8634-29fd634d2fbd)
-    (at 288.2 96.04)
+    (at 104.2125 52.59)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/b2zjwm5d")
@@ -4377,7 +4377,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 98f4e1e4-0267-4088-ba0a-62b90c44439c)
-    (at 280.18 98.55)
+    (at 96.1925 55.1)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.fr/short/93345tjz")
@@ -4434,7 +4434,7 @@
 
   (footprint "keyboard:USB_C_Receptacle_GCT_USB4510-03-1-A" (layer "F.Cu")
     (tstamp 99beb1e5-d52d-40ca-8666-d8c22ef53964)
-    (at 268.66 111.085)
+    (at 84.6725 67.635)
     (descr "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
     (tags "usb usb-c 2.0 pd")
     (property "Digikey" "https://www.digikey.fr/short/t5517rjb")
@@ -4545,7 +4545,7 @@
 
   (footprint "Inductor_SMD:L_0603_1608Metric" (layer "F.Cu")
     (tstamp 9c20dec9-cc28-4933-9534-a2edde688438)
-    (at 284.19 91.02)
+    (at 100.2025 47.57)
     (descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "inductor")
     (property "Digikey" "https://www.digikey.fr/short/5017v0dz")
@@ -4759,7 +4759,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp a607e6b1-6c9e-46fe-be55-d939b003c4eb)
-    (at 288.2 103.57)
+    (at 104.2125 60.12)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/jp814v51")
@@ -4973,7 +4973,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp b7692f7e-dd97-4094-95c5-ab650bf7258a)
-    (at 280.18 91.02)
+    (at 96.1925 47.57)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.fr/short/9ddcdmj1")
@@ -5030,7 +5030,7 @@
 
   (footprint "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal" (layer "F.Cu")
     (tstamp bc442ebd-0823-44f3-84d5-062cc8f04f43)
-    (at 292.2 112.25)
+    (at 108.2125 68.8)
     (descr "JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST PH top entry")
     (property "Digikey" "https://www.digikey.fr/short/4nfzf328")
@@ -5147,7 +5147,7 @@
 
   (footprint "Diode_SMD:D_SOD-323" (layer "F.Cu")
     (tstamp bf3697c6-4899-49fb-a58c-4028d4199173)
-    (at 263.755 116.47)
+    (at 79.7675 73.02)
     (descr "SOD-323")
     (tags "SOD-323")
     (property "Digikey" "https://www.digikey.fr/short/ndftbf2d")
@@ -6003,7 +6003,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp d4199020-455e-4dab-b8a6-515aba170d83)
-    (at 284.19 103.57)
+    (at 100.2025 60.12)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/phch2hb9")
@@ -6060,7 +6060,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp da6cb104-7baa-4bfb-9122-32d313d6f33c)
-    (at 288.2 91.02)
+    (at 104.2125 47.57)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.fr/short/q2w0pb82")
@@ -6274,7 +6274,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp dfbd0aaa-3ec8-4c5c-84ce-81e2937fd180)
-    (at 280.18 88.51)
+    (at 96.1925 45.06)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.fr/short/dfdcwqzh")
@@ -6488,7 +6488,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp e2de6f55-c49d-43cd-b12e-20c4a6318f2c)
-    (at 267.92 116.29)
+    (at 83.9325 72.84)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Digikey" "https://www.digikey.fr/short/wn1w0bhr")
@@ -6549,7 +6549,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp e40c7689-e3e0-4313-9964-3485538ba0f3)
-    (at 280.18 93.53)
+    (at 96.1925 50.08)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.fr/short/9ddcdmj1")
@@ -7075,6 +7075,8 @@
       (net 4 "GND") (pinfunction "2") (pintype "passive") (tstamp 513bd07e-2d41-435f-a4ec-7fc370e19c1b))
   )
 
+  (gr_rect (start 247.8 98.1) (end 268.35 130.1)
+    (stroke (width 0.1) (type default)) (fill none) (layer "Eco1.User") (tstamp 69d5150a-49b0-43a7-810d-b74b065029bb))
   (gr_line (start 169.12 79.34) (end 169.12 85.34)
     (stroke (width 0.15) (type solid)) (layer "Edge.Cuts") (tstamp 085babc6-702c-4a7c-85f8-ca209db10511))
   (gr_line (start 226.12 77.34) (end 212.12 77.34)
