@@ -1,4 +1,4 @@
-
+# This stript converts the BOM.csv output from Kicad to a Markdown table to paste in the documentation
 import pandas as pd
 
 def csv_to_markdown(csv_file_path, columns_needed):
