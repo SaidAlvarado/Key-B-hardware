@@ -14,6 +14,12 @@ Attribute the Fanstel module footprint and symbols to: https://github.com/hemalc
 - Charging current
   - std 0.2C, max. 1C. (60mA to 300mA)
 
+
+## BOM
+
+- Premade digikey cart: https://www.digikey.fr/short/4dtv58d8
+
+
 ## References
 
 #### Crystal oscillator design
