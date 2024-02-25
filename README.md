@@ -1,4 +1,4 @@
-# KeyB-keyboard
+# Key-B-keyboard
 ZMK based wireless half keyboard
 
 
