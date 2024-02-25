@@ -1,4 +1,4 @@
-# left-hand-keyboard
+# KeyB-keyboard
 ZMK based wireless half keyboard
 
 
