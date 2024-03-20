@@ -31203,6 +31203,17 @@
 			(pintype "bidirectional")
 			(uuid "cedfb357-21ba-4971-a812-829151b0129c")
 		)
+		(model "${KIPRJMOD}/lib/3d_models/bt840.stp"
+			(offset
+				(xyz 7 8 0.2)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
