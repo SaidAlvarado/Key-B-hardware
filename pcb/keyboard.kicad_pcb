@@ -8827,7 +8827,7 @@
 			(pintype "passive")
 			(uuid "40589b2a-a11f-4a95-9f92-24187891d525")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3S-1000.wrl"
+		(model "${KIPRJMOD}/lib/3d_models/B3S_100.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8835,7 +8835,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
