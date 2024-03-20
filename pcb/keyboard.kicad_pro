@@ -640,9 +640,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "output/3d model/key-b.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "output/3d model/key-b.wrl"
     },
     "page_layout_descr_file": ""
   },

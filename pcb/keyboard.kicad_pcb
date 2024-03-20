@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(general
-		(thickness 1.6)
+		(thickness 2)
 		(legacy_teardrops no)
 	)
 	(paper "A3")
@@ -65,7 +65,7 @@
 			)
 			(layer "dielectric 2"
 				(type "core")
-				(thickness 1.24)
+				(thickness 1.64)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -29244,7 +29244,7 @@
 			(pintype "passive")
 			(uuid "d9766502-1fbf-4fc0-ad07-9c47b5475881")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29573,7 +29573,7 @@
 			)
 		)
 		(property "Digikey" "https://www.digikey.fr/short/w4d4tdrt"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c2bf2642-b248-4249-b5d7-d6b67819fbf8")
@@ -29586,7 +29586,7 @@
 			)
 		)
 		(property "Mfr Part Number" "ECS-.327-9-34B-TR"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "56f458ed-ae0a-40e2-a482-9ff4876edb6b")
@@ -29599,7 +29599,7 @@
 			)
 		)
 		(property "Notes" "32.768 kHz ±20ppm Crystal 9pF 70 kOhms 2-SMD, No Lead"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8c4cef26-4f77-451b-ab59-cc3125180a49")
@@ -29744,7 +29744,7 @@
 			(pintype "passive")
 			(uuid "8cf9f051-d9ad-4928-8eda-fe08dba79035")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3215-2Pin_3.2x1.5mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
